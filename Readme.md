@@ -31,3 +31,19 @@ Install with python
   cd TaskApps
 ```
 
+
+## Screenshots
+Login
+![Login](https://raw.githubusercontent.com/IdkBemja/TaskApps/refs/heads/main/login.PNG?token=GHSAT0AAAAAADBDSVE5JYYRWCCGXPS7MT3AZ75HLEA)
+Dashboard
+![Dashboard](https://raw.githubusercontent.com/IdkBemja/TaskApps/refs/heads/main/dashboard.png?token=GHSAT0AAAAAADBDSVE5MUDWCQQIMDYAM6TMZ75HLRQ)
+
+Dashboard With Task
+![DashboardWithTask](https://raw.githubusercontent.com/IdkBemja/TaskApps/refs/heads/main/dashboardwithtasks.PNG?token=GHSAT0AAAAAADBDSVE5GF43V5MNRBCZYHBWZ75HL4A)
+
+Add Task
+![AddTask](https://raw.githubusercontent.com/IdkBemja/TaskApps/refs/heads/main/addtask.PNG?token=GHSAT0AAAAAADBDSVE5JCKCFH2AQCHGQRTMZ75HNEQ)
+
+Edit Task
+![EditTask](https://raw.githubusercontent.com/IdkBemja/TaskApps/refs/heads/main/edittask.PNG?token=GHSAT0AAAAAADBDSVE4GSEI6IAC25ZCKTKOZ75HMYQ)
+
