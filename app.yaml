@@ -1,0 +1,6 @@
+runtime: python38
+env_variables:
+  MYSQL_USER: 'root'
+  MYSQL_PASSWORD: 'root'
+  MYSQL_DATABASE: 'examen_python'
+  CLOUD_SQL_CONNECTION_NAME: 'examen-python-flask:us-central1:examenpython'
